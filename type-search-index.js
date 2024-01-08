@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.spreadsheet.client","l":"SpreadsheetClient"},{"p":"com.spreadsheet.client","l":"SpreadsheetOperations"}];updateSearchResults();
